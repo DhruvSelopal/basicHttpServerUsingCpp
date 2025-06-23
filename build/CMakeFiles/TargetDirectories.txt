@@ -1,0 +1,3 @@
+C:/Users/acer/Desktop/WebSocketApp/build/CMakeFiles/soket.dir
+C:/Users/acer/Desktop/WebSocketApp/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/acer/Desktop/WebSocketApp/build/CMakeFiles/ZERO_CHECK.dir
