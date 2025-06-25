@@ -2,10 +2,10 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\Users\acer\Desktop\WebSocketApp\build\x64\Debug\ZERO_CHECK</FullPath>
+      <FullPath>C:\Users\acer\Desktop\gitHub\basicHttpServerUsingC++\build\x64\Debug\ZERO_CHECK</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Users\acer\Desktop\WebSocketApp\build\Debug\soket.exe</FullPath>
+      <FullPath>C:\Users\acer\Desktop\gitHub\basicHttpServerUsingC++\build\Debug\soket.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

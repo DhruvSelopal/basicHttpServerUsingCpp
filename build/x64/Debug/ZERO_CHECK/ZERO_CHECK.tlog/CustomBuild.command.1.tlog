@@ -1,6 +1,6 @@
-^C:\USERS\ACER\DESKTOP\WEBSOCKETAPP\BUILD\CMAKEFILES\26A497C63A39085D4DD0B6714EEA00DC\GENERATE.STAMP.RULE
+^C:\USERS\ACER\DESKTOP\GITHUB\BASICHTTPSERVERUSINGC++\BUILD\CMAKEFILES\FF4F0332D7DF515DD640AE60771AFDBA\GENERATE.STAMP.RULE
 setlocal
-"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/acer/Desktop/WebSocketApp -BC:/Users/acer/Desktop/WebSocketApp/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/acer/Desktop/WebSocketApp/build/MyWebSocketApp.sln
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/acer/Desktop/gitHub/basicHttpServerUsingC++ -BC:/Users/acer/Desktop/gitHub/basicHttpServerUsingC++/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/acer/Desktop/gitHub/basicHttpServerUsingC++/build/MyWebSocketApp.sln
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone

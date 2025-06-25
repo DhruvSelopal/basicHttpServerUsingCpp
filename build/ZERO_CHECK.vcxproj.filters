@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <CustomBuild Include="C:\Users\acer\Desktop\WebSocketApp\build\CMakeFiles\26a497c63a39085d4dd0b6714eea00dc\generate.stamp.rule">
+    <CustomBuild Include="C:\Users\acer\Desktop\gitHub\basicHttpServerUsingC++\build\CMakeFiles\ff4f0332d7df515dd640ae60771afdba\generate.stamp.rule">
       <Filter>CMake Rules</Filter>
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="CMake Rules">
-      <UniqueIdentifier>{43E21D33-FF72-3A4B-8E1B-C3B7C0F581A5}</UniqueIdentifier>
+      <UniqueIdentifier>{071295CA-D050-3B71-AFC1-86D7F13B0511}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>
